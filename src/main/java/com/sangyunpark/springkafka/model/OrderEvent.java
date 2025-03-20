@@ -1,4 +1,4 @@
-package com.sangyunpark.springkafka.MessageModel;
+package com.sangyunpark.springkafka.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
